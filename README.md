@@ -10,7 +10,8 @@
 
 ## 💡 Tech Stack & Interests
 
-- **Languages**: [Your main languages]
+- **Backend**: Java, Spring Boot, Kafka (event streaming)
+- **Frontend**: React, TypeScript, modern web technologies
 - **Systems**: Distributed computing, event-driven architecture, microservices
 - **Domains**: Marketplace platforms, payment flows, seller experience
 - **Currently exploring**: OKLCH color systems, performance optimization patterns
